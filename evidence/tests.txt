@@ -1,0 +1,22 @@
+test_tf_fixed_signature (test_adapters.AdapterTests.test_tf_fixed_signature) ... WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1792478896.537479   22644 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1792478907.053148   22644 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+ok
+test_torch_eval_and_no_graph (test_adapters.AdapterTests.test_torch_eval_and_no_graph) ... ok
+test_video_stream (test_adapters.AdapterTests.test_video_stream) ... ok
+test_depth_fails_closed (test_robotics.RoboticsTests.test_depth_fails_closed) ... ok
+test_episodes_include_rare_failures (test_robotics.RoboticsTests.test_episodes_include_rare_failures) ... ok
+test_hash_bytes (test_robotics.RoboticsTests.test_hash_bytes) ... ok
+test_imbalance_and_missing_class (test_robotics.RoboticsTests.test_imbalance_and_missing_class) ... ok
+test_inflation_blocks_unknown_and_edges (test_robotics.RoboticsTests.test_inflation_blocks_unknown_and_edges) ... ok
+test_joint_bounds_and_bad_commands (test_robotics.RoboticsTests.test_joint_bounds_and_bad_commands) ... ok
+test_routes_never_cross_blocked_cells (test_robotics.RoboticsTests.test_routes_never_cross_blocked_cells) ... ok
+test_shortest_path_and_no_path (test_robotics.RoboticsTests.test_shortest_path_and_no_path) ... ok
+test_small_integer_labels_do_not_overflow (test_robotics.RoboticsTests.test_small_integer_labels_do_not_overflow) ... ok
+test_split_group_and_duplicate_bytes (test_robotics.RoboticsTests.test_split_group_and_duplicate_bytes) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 20.616s
+
+OK

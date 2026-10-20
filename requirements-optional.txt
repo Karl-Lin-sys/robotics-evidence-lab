@@ -1,0 +1,5 @@
+# Install only the adapters you need. CPU PyTorch can be installed from
+# https://download.pytorch.org/whl/cpu instead of the default package index.
+torch==2.14.1
+opencv-python-headless==5.0.0.93
+tensorflow==2.21.0

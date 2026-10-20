@@ -1,0 +1,37 @@
+[
+  {
+    "repo": "DepthAnything/Depth-Anything-V2",
+    "stars": 9000,
+    "sha": "a561b849ebae10a6f5ef49e26c83cbbcd36c71bf",
+    "license": "Apache-2.0",
+    "url": "https://github.com/DepthAnything/Depth-Anything-V2"
+  },
+  {
+    "repo": "LiheYoung/Depth-Anything",
+    "stars": 8241,
+    "sha": "1d03336771fe09c5398ffdd211441e33941a97dc",
+    "license": "Apache-2.0",
+    "url": "https://github.com/LiheYoung/Depth-Anything"
+  },
+  {
+    "repo": "spla-tam/SplaTAM",
+    "stars": 2213,
+    "sha": "da6bbcd24c248dc884ac7f49d62e91b841b26ccc",
+    "license": "BSD-3-Clause",
+    "url": "https://github.com/spla-tam/SplaTAM"
+  },
+  {
+    "repo": "ok-robot/ok-robot",
+    "stars": 617,
+    "sha": "174c742b6a1866a2da8f75a89e2c544bb77ab5f9",
+    "license": "MIT",
+    "url": "https://github.com/ok-robot/ok-robot"
+  },
+  {
+    "repo": "LeCAR-Lab/ASAP",
+    "stars": 2130,
+    "sha": "df5320cc47dd8cad97961bdfabfe402dd62ad999",
+    "license": "MIT",
+    "url": "https://github.com/LeCAR-Lab/ASAP"
+  }
+]
